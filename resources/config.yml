@@ -1,0 +1,33 @@
+#English translation
+#Plugin created by Mathchat
+
+#menu
+title-menu: "Beverage machine"
+content-menu: "§l§c» §rClick a button to get your drink!"
+close-menu: "§cClose"
+prix-lipton: 1500 #amount in dollars
+prix-coca: 1500 #amount in dollars
+prix-orangina: 1500 #amount in dollars
+prix-fanta: 1500 #amount in dollars
+no-money-coca: "§cYou don't have the money to buy this item."
+no-money-lipton: "§cYou don't have the money to buy this item."
+no-money-orangina: "§cYou don't have the money to buy this item."
+no-money-fanta: "§cYou don't have the money to buy this item."
+
+
+#text in the chat
+text-coca: "§aYou just got a Coca-Cola."
+text-lipton: "§aYou just got an Lipton."
+text-orangina: "§aYou have just got an Orangina."
+text-fanta: "§aYou have just got a Fanta."
+text-entity-withdraw: "§aThe entity has been removed."
+
+#name above the drink machine
+title-machine: "§cBeverage machine"
+break-machine: "§aYou just broke the machine."
+
+#command
+command-description: "Allows you to spawn the Beverage machine"
+command-success-placed-entity: "§aThe entity has been placed successfully."
+command-permission: "§cYou don't have permission to use this command."
+
