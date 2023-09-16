@@ -7,9 +7,9 @@ Le plugin est full configurable dans le config.yml
 
 - Comme plugin nécessaire il vous faut:
 
- - Customies
- - EconomyAPI
- - FormAPI
+ . Customies
+ . EconomyAPI
+ . FormAPI
 
 - Pour faire spawn la Machine à boisson il faut faire la commande /spawnentity
 
@@ -23,9 +23,9 @@ EN: Here is a Drink Machine system!
 
 - As a necessary plugin you need:
 
- - Customs
- - EconomyAPI
- - FormAPI
+ . Customies
+ . EconomyAPI
+ . FormAPI
 
 - To spawn the Drink Machine you must do the command /spawnentity
 
