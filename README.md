@@ -23,9 +23,9 @@ EN: Here is a Drink Machine system!
 
 - As a necessary plugin you need:
 
- - Customies
- - EconomyAPI
- - FormAPI
+  - Customies
+  - EconomyAPI
+  - FormAPI
 
 - To spawn the Drink Machine you must do the command /spawnentity
 
