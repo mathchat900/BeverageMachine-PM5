@@ -5,33 +5,33 @@ FR: Voici un système de Machine à Boisson !
 
 Le plugin est full configurable dans le config.yml
 
-Comme plugin nécessaire il vous faut:
+- Comme plugin nécessaire il vous faut:
 
--Customies
--EconomyAPI
--FormAPI
+ - Customies
+ - EconomyAPI
+ - FormAPI
 
-Pour faire spawn la Machine à boisson il faut faire la commande /spawnentity
+- Pour faire spawn la Machine à boisson il faut faire la commande /spawnentity
 
-Pour la retirer, dans l'inventaire une clé à molette sera à votre dispostion
+- Pour la retirer, dans l'inventaire une clé à molette sera à votre dispostion
 
-PS: C'est la toute première version du Plugin donc possible que certain bug soit au rendez-vous, merci de me report !
+- PS: C'est la toute première version du Plugin donc possible que certain bug soit au rendez-vous, merci de me report !
 
 EN: Here is a Drink Machine system!
 
-The plugin is fully configurable in the config.yml
+- The plugin is fully configurable in the config.yml
 
-As a necessary plugin you need:
+- As a necessary plugin you need:
 
--Customs
--EconomyAPI
--FormAPI
+ - Customs
+ - EconomyAPI
+ - FormAPI
 
-To spawn the Drink Machine you must do the command /spawnentity
+- To spawn the Drink Machine you must do the command /spawnentity
 
-To remove it, in the inventory an adjustable wrench will be at your disposal
+- To remove it, in the inventory an adjustable wrench will be at your disposal
 
-PS: This is the very first version of the Plugin so some bugs may be present, please let me know!
+- PS: This is the very first version of the Plugin so some bugs may be present, please let me know!
 
 ![image](https://github.com/mathchat900/BeverageMachine-PM5/assets/73251064/de516033-fe4a-4b0b-bd61-b55a372551cf)
 
